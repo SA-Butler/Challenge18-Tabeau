@@ -2,7 +2,7 @@
 
 *** Please read the Readme file before this analysis ***
 
-The data set explored was downloaded from the citibike website in the form of monthly csv files. The data chosen to meet the challenge was data from January and July of 2022. The data was read into pandas dataframes, cleaned and analysed in a jupyter notebook in this repositry called "transform.jpny".
+The data set explored was downloaded from the citibike website in the form of monthly csv files. The data chosen to meet the challenge was data from January and July of 2022. The data was read into pandas dataframes, understood, cleaned and analysed in a jupyter notebook in this repositry called "transform.jpny".
 
 ## Analysis
 The first question to answer was the differences in the number of Citibike trips originating during January and July 2022 from Jersey city. This is detailed in the table in the tab Seasonal Variation Breakdown. 
@@ -16,6 +16,8 @@ There is a total of 110 trips to NYC during July to 58 different station locatio
 The location information was attached to the marker and is displayed along with location co-ordinates, when the mouse moves on to the marker. The total number of hires is also diaplayed. It can be seen that the larger number visited stations are in the southeast corner of manhatten. This is the location of the crossings by ferry and rail (PATH) connections. This is likely to be the favourite location to enter and leave NYC from Jersey City. 
 
 A scatter diagram was calculated by plotting the ride duration versus distance. There is an increase in scatter as duration and distance increases due to variation in cycling speeds and the nature of the journey (e.g. direct point to point or touring) make an impact. 
+
+The analysis therefore gives a clear indication of the seasonal variations expereinced in trips fro Jersy City. The summer increase in trips to manhatten is significant by comparison but is only a small percentage of the overal summer trips from Jersey City. 
 
 
 
