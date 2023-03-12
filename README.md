@@ -26,18 +26,27 @@ What is the diatance and hire time relationships between summer journeys from Je
 Map (25 points)
 
 Markers for all bike stations (5 points) --- See Summer Destinations NYC
+
 Station markers indicate popularity by color, size, shape, or some other means (5 points) --- See Summer Destinations NYC
+
 Ability to change marker data based on month and year (5 points) --- This data is for 2022 only. There is an ability included to select markers by month See Summer Destinations NYC 
+
 Sections are marked by zip code (5 points) --- ## There is no zip code data in the files used. The destination station details have been added to the marker.
 A write-up on the trends that were discovered while making the map (5 points) --- See Analysis file
 
 
+
 Visualizations (25 points)
 4-10 total visualizations (5 points) --- A total of 6 visualisation plus a table have been produced. This includes 3 maps, with the Summer Destinations NYC being the official map for scoring purposes.
+
 A total of 2 Tableau dashboards, each dedicated to a specific data discovery (5 points) -- 2 dashboards named Winter v Summer and Summer trips to NYC have been produced.
+
 Dashboards are named appropriately (5 points) -- See above comment
+
 Data is cleaned such that data entry errors are removed and columns are correctly typed (5 points) --- Data cleaned in the jupyter notebook
+
 Visualizations can logically be used to explore the data (5 points) --- See analysis
+
 
 Tableau Story (25 points)
 Individual visualizations are used (5 points) --- Story 1 cntructed from all visualisations
