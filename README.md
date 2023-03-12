@@ -50,15 +50,24 @@ Visualizations can logically be used to explore the data (5 points) --- See anal
 
 Tableau Story (25 points)
 Individual visualizations are used (5 points) --- Story 1 cntructed from all visualisations
+
 Dashboards are used (5 points) --- Two dashboards named Winter v Summer and Summer trips to NYC have been produced.
+
 A map is used (5 points) Summer Destinations NYC is the official map to comply with rubric.
+
 Visualizations on the same page are clearly related to one another (5 points) --- Visualisation relate to the theme being investigated as indicated by the title
+
 The story is informative and easy to navigate (5 points) --- The story has clearly titled information for each visualisation and should be read in conjunction with the analysis.
 
 Analysis (25 points)
 Analysis is written in a markdown file or included in the Tableau Public workbook (5 points)
+
 Analysis describes the dashboards and any interesting data discoveries contained within them (5 points)
+
 Analysis on the chosen city official requested map detailing any noticeable trends (5 points)
+
 The written analysis references specific visualizations and interactive features (5 points)
+
 The document is written in a manner that a non-technical reader could understand (5 points)
+
 
