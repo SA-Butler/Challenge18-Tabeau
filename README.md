@@ -1,9 +1,9 @@
 # Challenge18-Tableau
 
-![Jupyternotebook](/images/citibike.png "citibike")
+!(/images/citibike.png "citibike")
 
 
-##Citibike Analysis
+## Citibike Analysis
 
 This study is in response to Challenge 18, Tableau Analysis of the Citi-Bike Data.
 The aim of this study is to focus on CitiBike journeys that originate from Jersey City (JC).
