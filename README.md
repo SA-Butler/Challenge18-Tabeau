@@ -1,7 +1,9 @@
 # Challenge18-Tableau
 ![Citi bike](https://user-images.githubusercontent.com/113118793/224549542-73d3ee8e-32cf-43aa-a1f0-0eb352ece2a9.jpg)
 
-## Citibike Analysis
+## Citibike Analysis 
+
+Please note this analysis was carried out in the Desktop version of Tablaeau and therefore the packaged version is included in this repositry. 
 
 This study is in response to Challenge 18, Tableau Analysis of the Citi-Bike Data.
 The aim of this study is to focus on CitiBike journeys that originate from Jersey City (JC).
