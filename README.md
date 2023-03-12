@@ -60,14 +60,15 @@ Visualizations on the same page are clearly related to one another (5 points) --
 The story is informative and easy to navigate (5 points) --- The story has clearly titled information for each visualisation and should be read in conjunction with the analysis.
 
 Analysis (25 points)
-Analysis is written in a markdown file or included in the Tableau Public workbook (5 points)
+Analysis is written in a markdown file or included in the Tableau Public workbook (5 points) --- See analysis markdown file
 
-Analysis describes the dashboards and any interesting data discoveries contained within them (5 points)
+Analysis describes the dashboards and any interesting data discoveries contained within them (5 points) --- See analysis markdown file
 
-Analysis on the chosen city official requested map detailing any noticeable trends (5 points)
+Analysis on the chosen city official requested map detailing any noticeable trends (5 points) --- see analysis markdown file and Summer Destinations NYC Map
 
-The written analysis references specific visualizations and interactive features (5 points)
+The written analysis references specific visualizations and interactive features (5 points) --- Names pf the tabs are included in the description in the analysis file.
 
-The document is written in a manner that a non-technical reader could understand (5 points)
+The document is written in a manner that a non-technical reader could understand (5 points) --- The analysis file describes the overall finding in summary form and does not go into exact detail on specific numbers.
+
 
 
