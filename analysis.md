@@ -4,6 +4,10 @@
 
 The data set explored was downloaded from the citibike website in the form of monthly csv files. The data chosen to meet the challenge was data from January and July of 2022. The data was read into pandas dataframes, understood, cleaned and analysed in a jupyter notebook in this repositry called "transform.jpny".
 
+
+![JC-NYC](https://user-images.githubusercontent.com/113118793/224563239-534edeb8-6d70-4905-94ff-d0e3044c5f4a.jpg)
+
+
 ## Analysis
 The first question to answer was the differences in the number of Citibike trips originating during January and July 2022 from Jersey city. This is detailed in the table in the tab Seasonal Variation Breakdown. 
 
