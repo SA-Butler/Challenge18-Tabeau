@@ -21,7 +21,7 @@ The location information was attached to the marker and is displayed along with 
 
 A scatter diagram was calculated by plotting the ride duration versus distance. There is an increase in scatter as duration and distance increases. This is due to variation in cycling speeds and the nature of the journey (e.g. direct point to point or touring) gradually making an impact. 
 
-The analysis therefore gives a clear indication of the seasonal variations expereinced in trips from Jersey City. The summer increase in trips to manhatten is significant by comparison but is only a small percentage of the overall summer trips from Jersey City. 
+The analysis therefore gives a clear indication of the seasonal variations expereinced in trips from Jersey City. The summer increase in trips to Manhatten is significant by comparison but is only a small percentage of the overall summer trips from Jersey City. 
 
 
 
