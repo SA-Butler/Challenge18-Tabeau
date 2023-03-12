@@ -23,7 +23,7 @@ A scatter diagram was calculated by plotting the ride duration versus distance. 
 
 The analysis therefore gives a clear indication of the seasonal variations expereinced in trips from Jersey City. The summer increase in trips to Manhatten is significant by comparison but is only a small percentage of the overall summer trips from Jersey City.
 
-The visualisations are commpiled in the dashboards "Winter v Summer" and "Summer Trips to NYC".
+The visualisations are compiled in the dashboards "Winter v Summer" and "Summer Trips to NYC".
 
 
 
