@@ -23,6 +23,10 @@ What is the diatance and hire time relationships between summer journeys from Je
 ***** Please read *****
 ## Compliance with Rubric
 
+
+The Tableau data is in the form of a tableau workbook constructed using tableau desktop.
+
+
 Map (25 points)
 
 Markers for all bike stations (5 points) --- See Summer Destinations NYC
